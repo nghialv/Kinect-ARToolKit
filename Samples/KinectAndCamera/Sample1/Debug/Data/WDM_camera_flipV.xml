@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Output by Video Config Maker for ARToolKit -->
+<dsvl_input>
+	<camera show_format_dialog="true" friendly_name="USB ビデオ デバイス" device_name="@device:pnp:\\?\usb#vid_046d&amp;pid_0809&amp;mi_00#7&amp;174f3e9a&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global">
+		<pixel_format>
+			<RGB32 flip_h="false" flip_v="true"/>
+		</pixel_format>
+	</camera>
+</dsvl_input>
