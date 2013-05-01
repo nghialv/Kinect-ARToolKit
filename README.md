@@ -1,6 +1,3 @@
-Kinect-ARToolKit
-================
-
 some simple examples of using Kinect (OpenNI) and ARToolKit
 
 ### Youtube link
